@@ -2,7 +2,7 @@
  * adc.c
  *
  * Created: 25-09-2026 23:39:31
- *  Author: hisan
+ *  Author: nesminhashim
  */ 
 #include <avr/io.h>
 #include "adc.h"
